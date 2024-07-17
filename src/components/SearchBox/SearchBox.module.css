@@ -3,11 +3,11 @@
     margin-bottom: 20px;
   }
   
-  label {
+  .label {
     font-weight: bold;
   }
   
-  input {
+  .input {
     padding: 5px;
     margin-left: 10px;
   }

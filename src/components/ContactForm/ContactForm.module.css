@@ -4,19 +4,12 @@
     gap: 10px;
   }
   
-  label {
+  .label {
     font-weight: bold;
   }
   
-  input {
+  .input {
     padding: 5px;
   }
   
-  button {
-    padding: 5px 10px;
-    background-color: #4CAF50;
-    color: white;
-    border: none;
-    border-radius: 3px;
-    cursor: pointer;
-  }
+  
